@@ -1,0 +1,19 @@
+/*  Geleneksel tasarım  */
+.pagination-form {
+    margin-top: 40px;
+}
+
+.pagination-form ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-right: 40px;
+    text-align: center;
+}
+
+.pagination-form li {
+    float: left;
+    min-width: 10px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
