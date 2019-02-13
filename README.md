@@ -1,3 +1,3 @@
 # paginationism
 
-<a href="http://ismetkagancetin.com/projects/paginationism">Nasıl kullanılır.</a>
+<a href="http://ismetkagancetin.com/work/paginationism">Nasıl kullanılır.</a>
